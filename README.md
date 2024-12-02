@@ -109,7 +109,7 @@ Follow these steps to run the FoodTechApp project locally:
 6. Once the cloning process is complete, navigate to the project's root directory:
 
    ```shell
-   cd zero
+   cd FinTrack
    ```
 
 7. Run the command to install all required dependencies:
