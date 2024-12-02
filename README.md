@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/images/zer0.png" height="128">
+    <img src="assets/images/Black and White Creative Studio Logo.png" height="128">
     <h1 align="center">FinTrack - Minimal Expense Manager</h1>
 </div>
 
