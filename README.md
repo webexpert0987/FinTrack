@@ -1,9 +1,9 @@
 <div align="center">
     <img src="assets/images/zer0.png" height="128">
-    <h1 align="center">zer0 - Minimal Expense Manager</h1>
+    <h1 align="center">FinTrack - Minimal Expense Manager</h1>
 </div>
 
-Zero is a lightweight, open-source Android application designed to empower users to effortlessly manage their expenses while prioritizing privacy. With a minimalistic user interface, dark and light themes, and a commitment to keeping user data entirely on their devices, Zero ensures a seamless and secure expense tracking experience.
+FinTrack is a modern, open-source Android app built to simplify expense tracking while keeping user privacy at its core. Designed with a sleek and intuitive interface, it offers both light and dark themes to suit your preferences. With all data stored securely on your device, FinTrack ensures that your financial information stays under your control. Track your spending effortlessly, enjoy a clutter-free experience, and take charge of your finances with confidence.
 
 ## Screen Shots
 
